@@ -1,0 +1,5 @@
+string=input("Enter String :\n")
+str1=input("string1  :\n")
+str2=input("string2 :\n")
+string=string.replace(str1,str2)
+print(string)
